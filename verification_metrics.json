@@ -1,0 +1,69 @@
+{
+  "total_apps": 100,
+  "sample_size": 15,
+  "first_pass_accuracy": 80.0,
+  "final_accuracy": 93.3,
+  "corrections_applied": 6,
+  "sampled_results": [
+    {
+      "name": "Salesforce",
+      "status": "Pass"
+    },
+    {
+      "name": "Twenty",
+      "status": "Pass"
+    },
+    {
+      "name": "DealCloud",
+      "status": "Corrected"
+    },
+    {
+      "name": "Zendesk",
+      "status": "Pass"
+    },
+    {
+      "name": "Pylon",
+      "status": "Pass"
+    },
+    {
+      "name": "Slack",
+      "status": "Pass"
+    },
+    {
+      "name": "Google Ads",
+      "status": "Pass"
+    },
+    {
+      "name": "Shopify",
+      "status": "Pass"
+    },
+    {
+      "name": "fanbasis",
+      "status": "Defeated"
+    },
+    {
+      "name": "Ahrefs",
+      "status": "Pass"
+    },
+    {
+      "name": "GitHub",
+      "status": "Pass"
+    },
+    {
+      "name": "Notion",
+      "status": "Pass"
+    },
+    {
+      "name": "Brex",
+      "status": "Pass"
+    },
+    {
+      "name": "Otter AI",
+      "status": "Corrected"
+    },
+    {
+      "name": "Mermaid CLI",
+      "status": "Pass"
+    }
+  ]
+}

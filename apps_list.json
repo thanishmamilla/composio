@@ -1,0 +1,152 @@
+[
+  {
+    "category": "CRM and Sales",
+    "apps": [
+      {"name": "Salesforce", "hint": "salesforce.com"},
+      {"name": "HubSpot", "hint": "hubspot.com"},
+      {"name": "Pipedrive", "hint": "pipedrive.com"},
+      {"name": "Attio", "hint": "attio.com"},
+      {"name": "Twenty", "hint": "twenty.com"},
+      {"name": "Podio", "hint": "podio.com"},
+      {"name": "Zoho CRM", "hint": "zoho.com/crm"},
+      {"name": "Close", "hint": "close.com"},
+      {"name": "Copper", "hint": "copper.com"},
+      {"name": "DealCloud", "hint": "api.docs.dealcloud.com"}
+    ]
+  },
+  {
+    "category": "Support and Helpdesk",
+    "apps": [
+      {"name": "Zendesk", "hint": "zendesk.com"},
+      {"name": "Intercom", "hint": "intercom.com"},
+      {"name": "Freshdesk", "hint": "freshdesk.com"},
+      {"name": "Front", "hint": "front.com"},
+      {"name": "Pylon", "hint": "usepylon.com"},
+      {"name": "LiveAgent", "hint": "liveagent.com"},
+      {"name": "Plain", "hint": "plain.com"},
+      {"name": "Help Scout", "hint": "helpscout.com"},
+      {"name": "Gorgias", "hint": "gorgias.com"},
+      {"name": "Gladly", "hint": "gladly.com"}
+    ]
+  },
+  {
+    "category": "Communications and Messaging",
+    "apps": [
+      {"name": "Slack", "hint": "slack.com"},
+      {"name": "Twilio", "hint": "twilio.com"},
+      {"name": "Zoho Cliq", "hint": "zoho.com/cliq"},
+      {"name": "Lark (Larksuite)", "hint": "open.larksuite.com"},
+      {"name": "Pumble", "hint": "pumble.com"},
+      {"name": "Discord", "hint": "discord.com"},
+      {"name": "Telegram", "hint": "core.telegram.org"},
+      {"name": "WhatsApp Business", "hint": "developers.facebook.com/docs/whatsapp"},
+      {"name": "Aircall", "hint": "aircall.io"},
+      {"name": "Vonage", "hint": "developer.vonage.com"}
+    ]
+  },
+  {
+    "category": "Marketing, Ads, Email and Social",
+    "apps": [
+      {"name": "Google Ads", "hint": "developers.google.com/google-ads"},
+      {"name": "Meta Ads", "hint": "developers.facebook.com/docs/marketing-apis"},
+      {"name": "LinkedIn Ads", "hint": "learn.microsoft.com/linkedin/marketing"},
+      {"name": "GoHighLevel", "hint": "highlevel.stoplight.io"},
+      {"name": "Mailchimp", "hint": "mailchimp.com/developer"},
+      {"name": "Klaviyo", "hint": "developers.klaviyo.com"},
+      {"name": "systeme.io", "hint": "systeme.io"},
+      {"name": "Pinterest", "hint": "developers.pinterest.com"},
+      {"name": "Threads (Meta)", "hint": "developers.facebook.com/docs/threads"},
+      {"name": "SendGrid", "hint": "sendgrid.com"}
+    ]
+  },
+  {
+    "category": "Ecommerce",
+    "apps": [
+      {"name": "Shopify", "hint": "shopify.dev"},
+      {"name": "WooCommerce", "hint": "woocommerce.com/document/woocommerce-rest-api"},
+      {"name": "BigCommerce", "hint": "developer.bigcommerce.com"},
+      {"name": "Salesforce Commerce Cloud", "hint": "developer.salesforce.com/docs/commerce"},
+      {"name": "Magento (Adobe Commerce)", "hint": "developer.adobe.com/commerce"},
+      {"name": "Squarespace", "hint": "developers.squarespace.com"},
+      {"name": "Ecwid", "hint": "api-docs.ecwid.com"},
+      {"name": "Gumroad", "hint": "gumroad.com/api"},
+      {"name": "Amazon Selling Partner", "hint": "developer-docs.amazon.com/sp-api"},
+      {"name": "fanbasis", "hint": "fanbasis.com"}
+    ]
+  },
+  {
+    "category": "Data, SEO and Scraping",
+    "apps": [
+      {"name": "DataForSEO", "hint": "docs.dataforseo.com"},
+      {"name": "SE Ranking", "hint": "seranking.com/api"},
+      {"name": "Ahrefs", "hint": "ahrefs.com/api"},
+      {"name": "MrScraper", "hint": "docs.mrscraper.com"},
+      {"name": "Apify", "hint": "docs.apify.com"},
+      {"name": "Firecrawl", "hint": "firecrawl.dev"},
+      {"name": "Bright Data", "hint": "brightdata.com"},
+      {"name": "Sherlock", "hint": "github.com/sherlock-project/sherlock"},
+      {"name": "Waterfall.io", "hint": "waterfall.io"},
+      {"name": "Clay", "hint": "clay.com"}
+    ]
+  },
+  {
+    "category": "Developer, Infra and Data platforms",
+    "apps": [
+      {"name": "GitHub", "hint": "docs.github.com/rest"},
+      {"name": "Vercel", "hint": "vercel.com/docs/rest-api"},
+      {"name": "Netlify", "hint": "docs.netlify.com/api"},
+      {"name": "Cloudflare", "hint": "developers.cloudflare.com/api"},
+      {"name": "Supabase", "hint": "supabase.com/docs"},
+      {"name": "Neo4j", "hint": "neo4j.com/docs/api"},
+      {"name": "Snowflake", "hint": "docs.snowflake.com"},
+      {"name": "MongoDB Atlas", "hint": "mongodb.com/docs/atlas/api"},
+      {"name": "Datadog", "hint": "docs.datadoghq.com/api"},
+      {"name": "Sentry", "hint": "docs.sentry.io/api"}
+    ]
+  },
+  {
+    "category": "Productivity and Project Management",
+    "apps": [
+      {"name": "Notion", "hint": "developers.notion.com"},
+      {"name": "Airtable", "hint": "airtable.com/developers"},
+      {"name": "Linear", "hint": "developers.linear.app"},
+      {"name": "Jira", "hint": "developer.atlassian.com"},
+      {"name": "Asana", "hint": "developers.asana.com"},
+      {"name": "Monday.com", "hint": "developer.monday.com"},
+      {"name": "ClickUp", "hint": "clickup.com/api"},
+      {"name": "Coda", "hint": "coda.io/developers"},
+      {"name": "Smartsheet", "hint": "smartsheet.com/developers"},
+      {"name": "Harvest", "hint": "harvestapp.com"}
+    ]
+  },
+  {
+    "category": "Finance and Fintech",
+    "apps": [
+      {"name": "Stripe", "hint": "stripe.com/docs/api"},
+      {"name": "Plaid", "hint": "plaid.com/docs"},
+      {"name": "Binance", "hint": "binance-docs.github.io"},
+      {"name": "Paygent Connect", "hint": "paygent"},
+      {"name": "iPayX", "hint": "ipayx.ai/docs"},
+      {"name": "QuickBooks", "hint": "developer.intuit.com"},
+      {"name": "Xero", "hint": "developer.xero.com"},
+      {"name": "Brex", "hint": "developer.brex.com"},
+      {"name": "Ramp", "hint": "docs.ramp.com"},
+      {"name": "PitchBook", "hint": "pitchbook.com"}
+    ]
+  },
+  {
+    "category": "AI, Research and Media-native",
+    "apps": [
+      {"name": "NotebookLM", "hint": "cloud.google.com/gemini"},
+      {"name": "Otter AI", "hint": "help.otter.ai"},
+      {"name": "Fathom", "hint": "fathom.video"},
+      {"name": "Consensus", "hint": "consensus.app"},
+      {"name": "Reducto", "hint": "reducto.ai"},
+      {"name": "Devin", "hint": "docs.devin.ai"},
+      {"name": "higgsfield", "hint": "higgsfield.ai/cli"},
+      {"name": "Mermaid CLI", "hint": "github.com/mermaid-js/mermaid-cli"},
+      {"name": "YouTube Transcript", "hint": "transcriptapi.com"},
+      {"name": "Grain", "hint": "grain.com"}
+    ]
+  }
+]
